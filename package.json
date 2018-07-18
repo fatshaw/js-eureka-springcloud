@@ -1,7 +1,7 @@
 {
-  "name": "eureka-client-springcloud",
+  "name": "js-eureka-client-springcloud",
   "version": "2.0.6",
-  "description": "eureka-client-springcloud",
+  "description": "js-eureka-client-springcloud",
   "main": "eureka-client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
